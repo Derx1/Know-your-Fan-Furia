@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AFuria_Esports_logo.png&psig=AOvVaw2A2f50yLEtkHeP5lv5bjwg&ust=1746450779102000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCZtdvyiY0DFQAAAAAdAAAAABAE" alt="Logo do FuriaBot" width="200">
+  <img src="https://liquipedia.net/commons/images/thumb/a/ad/FURIA_Esports_full_darkmode.png/600px-FURIA_Esports_full_darkmode.png" alt="Logo do FuriaBot" width="200">
   <br>
   <strong>Know Your Fan - FURIA</strong>
 </div>
