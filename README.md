@@ -1,4 +1,4 @@
-# Know Your Fan - FURIA
+![image]([https://github.com/user-attachments/assets/a01fc4d8-5787-49a8-9490-2d9e575fe6bf](https://www.google.com/imgres?q=furia%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fpt%2Ff%2Ff9%2FFuria_Esports_logo.png&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AFuria_Esports_logo.png&docid=AyInFgcVH5A9sM&tbnid=XrwWxAOJi8PBMM&vet=12ahUKEwjZ2I6j8omNAxVBJ7kGHZR6NDcQM3oECB0QAA..i&w=321&h=312&hcb=2&ved=2ahUKEwjZ2I6j8omNAxVBJ7kGHZR6NDcQM3oECB0QAA))# Know Your Fan - FURIA
 
 ![FURIA Logo](static/images/furia-logo.png)
 
