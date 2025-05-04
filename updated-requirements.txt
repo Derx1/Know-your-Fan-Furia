@@ -1,0 +1,14 @@
+flask==2.3.3
+flask_sqlalchemy==3.1.1
+flask-wtf==1.2.1
+flask-login==0.6.3
+werkzeug==2.3.7
+pillow==10.2.0
+python-dotenv==1.0.1
+requests==2.31.0
+beautifulsoup4==4.12.3
+email_validator==2.1.0
+gunicorn==21.2.0
+psycopg2-binary==2.9.9
+whitenoise==6.6.0
+pytest==8.0.0

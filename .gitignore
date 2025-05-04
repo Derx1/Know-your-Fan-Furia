@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Arquivos de configuração local
+.env
+
+# Arquivos de log
+*.log
+
+# Arquivos de banco de dados
+*.db
+*.sqlite3
+
+# Pasta de uploads (exceto .gitkeep)
+uploads/documents/*
+!uploads/documents/.gitkeep
+uploads/profiles/*
+!uploads/profiles/.gitkeep
+static/uploads/documents/*
+!static/uploads/documents/.gitkeep
+static/uploads/profiles/*
+!static/uploads/profiles/.gitkeep
+
+# Arquivos gerados por IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Arquivos temporários
+tmp/
+temp/
